@@ -32,7 +32,10 @@
 		"hateYes": ["I only accept because I have to.", "Whatever, I don't care."],
 
 		"uniqueName": "Pride of the People",
-		"uniques": ["[+1 Food] from every [Pasture]","[+1 Gold] from every [Wheat]"],
+		"uniques": {"May buy items in puppet cities",
+	     "[+20]% [Culture] <in [Annexed] cities>",
+	     "[+10]% [Gold] from City-States"}
+		]
 
 		"cities": ["Buenos Aires","Cordoba","Rosario","La Plata","Tucuman","Salta","Mendoza","Vera Cruz","Corrientes","Pilar","Bahia Blanca",
                             "Resistencia","Posadas","Jujuy","Parana","Merlo","Neuquen","Quilmes","Banfield","Formosa","Lanus",
