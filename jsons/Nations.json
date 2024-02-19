@@ -1,11 +1,11 @@
 [
      {
     "name": "Providence",
-		"leaderName": "Mariana",
+		"leaderName": "Prophetess Mariana",
 		"adjective": ["Providencian"],
 		"outerColor": [87, 129, 167],
 		"innerColor": [252, 209, 22],
-		"spyNames": ["Che","Pibe"],
+		"spyNames": ["Jan","Powl"],
 
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Scientific",
