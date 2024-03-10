@@ -67,7 +67,7 @@
 		"outerColor": [240,240,240],
 		"innerColor": [8,25,115],
 		"uniqueName": "Mare Clausum",
-		"uniques": ["[+3 Gold] from every [Luxury resource]"],
+		"uniques": ["[+3 Gold] from every [Luxury resource]","Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns."],
 		"cities": ["Lisbon","Porto","Braga","Coimbra","Funchal","Leiria","Goa","Vila Nova de Gaia","Aveiro","Luanda",
 			"Evora","Faro","Castelo Branco","Bissau","Guarda","Viseu","Praia","Braganza","Beja","Tomar",
 			"Maputo","Tavira","Figueira da Foz","Viana do Castelo","SÃ£o TomÃ© and PrÃ­ncipe","Silves","Sintra","Dili","Lamego",
