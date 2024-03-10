@@ -48,4 +48,29 @@
 			{"text": ""}
 		]
      },
+        {
+	"name": "Portugal",
+		"leaderName": "Maria I",
+		"adjective": ["Portuguese"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Blessings be upon you, most gracious Queen Maria, protector and sovereign of the Portuguese people. As the first ever Queen regnant of Portugal, it was your wise stewardship that protected the royal court from the incursions of Napoleon, establishing a safe haven in Brazil to preserve the integrity of Portuguese rule. Despite struggling with illness throughout your reign, your effort to ensure Portugal's close cooperation with Brazil are credited with helping that state gain its eventual independence - and for this you will always be admired and respected by the people of both nations.",
+		"startIntroPart2": "Oh noble and pious queen, will you once again guide the kingdom of Portugal in the spirit of cooperation and prosperity? Will you establish a new legacy, one that will surpass all those who come before you? Can you build a civilization that will stand the test of time?",
+		"declaringWar": "I'm afraid I cannot allow your kingdom to exist for much longer! I hope you won't mind...",
+		"attacked": "You cannot be serious!",
+		"defeated": "I know little about this conflict...I'll have to consult my regent...",
+		"introduction": "I am Maria, Queen of Portugal! Have we met before? You look familiar to me... Or maybe not.",
+		"neutralHello": "Good morning.",
+		"hateHello": "Why did you come?",
+		"tradeRequest": "Will you consider this offer?",
+		"outerColor": [240,240,240],
+		"innerColor": [8,25,115],
+		"uniqueName": "Mare Clausum",
+		"uniques": ["[+3 Gold] from every [Luxury resource]"],
+		"cities": ["Lisbon","Porto","Braga","Coimbra","Funchal","Leiria","Goa","Vila Nova de Gaia","Aveiro","Luanda",
+			"Evora","Faro","Castelo Branco","Bissau","Guarda","Viseu","Praia","Braganza","Beja","Tomar",
+			"Maputo","Tavira","Figueira da Foz","Viana do Castelo","SÃ£o TomÃ© and PrÃ­ncipe","Silves","Sintra","Dili","Lamego",
+			"Ponta Delgada"] 
+	   }
 ]
