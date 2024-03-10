@@ -1,1 +1,17 @@
-
+[
+  {
+		"name": "Nau", 
+		"uniqueTo": "Portugal",
+		"replaces": "Caravel",
+		"unitType": "Melee Water",
+		"movement": 5,
+		"strength": 20,
+		"cost": 120,
+		"hurryCostModifier": 30,
+		"requiredTech": "Astronomy",
+		"upgradesTo": "Ironclad",
+		"obsoleteTech": "Combustion",
+		"uniques": ["Can move after attacking","[+1] Sight","May withdraw before melee ([50]%)","Can undertake a trade mission with City-State, giving a large sum of gold and [0] Influence",
+    "May enter foreign tiles without open borders"],
+	}
+]
