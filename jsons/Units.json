@@ -27,7 +27,6 @@
 		"obsoleteTech": "Military Science",
 		"uniques": ["Can move after attacking","No defensive terrain bonus", 
 			"May capture killed [Military] units","[+2] Sight","May enter foreign tiles without open borders"],
-		"promotions": "[Survivalism I]",
 		"attackSound": "horse"
 		//Conquistador should have no penalty attacking cities
 		//Ability to found new cities can only be used on a foreign continent that does not contain the Spanish capital.
