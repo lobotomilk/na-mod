@@ -13,5 +13,36 @@
 		"obsoleteTech": "Combustion",
 		"uniques": ["Can move after attacking","[+1] Sight","May withdraw before melee ([50]%)","Can undertake a trade mission with City-State, giving a large sum of gold and [0] Influence",
     "May enter foreign tiles without open borders"],
-	}
+	},
+
+	{
+		"name": "Bandeirante",
+		"unitType": "Scout",
+		"replaces": "Scout",
+		"uniqueTo": "Brazil",
+		"movement": 4,
+		"strength": 8,
+		"cost": 50,
+		"upgradesTo": "Cavalry",
+		"obsoleteTech": "Military Science",
+		"uniques": ["Can move after attacking","No defensive terrain bonus", 
+			"May capture killed [Military] units","[+2] Sight","May enter foreign tiles without open borders"],
+		"promotions": ["[Survivalism I] ability"],
+		"attackSound": "horse"
+		//Conquistador should have no penalty attacking cities
+		//Ability to found new cities can only be used on a foreign continent that does not contain the Spanish capital.
+	},
+
+	{
+		"name": "Slave Hunter",
+		"unitType": "Scout",
+		"replaces": "Scout",
+		"movement": 3,
+		"strength": 6,
+		"cost": 40,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["[1] additional attacks per turn","May upgrade to [Composite Bowman] through ruins-like effects","May capture killed [Military] units"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	},
 ]
