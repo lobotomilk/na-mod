@@ -382,6 +382,13 @@ UnitIcons/Slave Hunter
   orig: 200, 200
   offset: 0, 0
   index: -1
+UnitIcons/Badeirante
+  rotate: false
+  xy: 420, 972
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 UnitIcons/Tarantine Cavalry
   rotate: false
   xy: 420, 764
