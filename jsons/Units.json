@@ -36,7 +36,6 @@
 	{
 		"name": "Slave Hunter",
 		"unitType": "Scout",
-		"replaces": "Scout",
 		"movement": 3,
 		"strength": 6,
 		"cost": 40,
