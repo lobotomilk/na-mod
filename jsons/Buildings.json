@@ -2,6 +2,7 @@
   {
 		"name": "Brighton Palace",
   "uniqueTo": "Portugal",
+	  "replaces": "Palace",
 		"isNationalWonder": true,
 		"production": 3,
 		"science": 3,
