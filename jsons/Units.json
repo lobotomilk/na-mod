@@ -18,7 +18,7 @@
 	{
 		"name": "Bandeirante",
 		"unitType": "Scout",
-		"replaces": "Scout",
+		"replaces": "Slave Hunter",
 		"uniqueTo": "Brazil",
 		"movement": 4,
 		"strength": 8,
